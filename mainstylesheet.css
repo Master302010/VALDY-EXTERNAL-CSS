@@ -1,0 +1,43 @@
+html {
+    font-size: 22px;
+}
+
+body {
+
+    background-color: dimgrey;
+    color: black;
+}
+.back{
+    background: url(Authentic.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: brown;
+}
+.main{
+    color: black;
+    background-color: (3, 160, 50);
+    opacity: 50%;
+    margin: auto;
+    border: 2px solid blue;
+    padding: 5px;
+}
+
+.a:visited {
+    color: yellow;
+}
+
+.a:hover, a:active {
+    color: none;
+}
+.p{
+    color: blue;}
+    .valdystyles{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        background-color: 
+    }
+.h2{
+    color:
+}
+.c{
+    background-color: mediumseagreen;
+}
